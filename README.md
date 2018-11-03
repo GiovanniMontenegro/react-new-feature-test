@@ -1,3 +1,17 @@
+## React new feature test
+
+This project should be an example on how use the new react feature coming in 16.7.0.
+Feature used:
+- Context
+- useReducer
+- useEffect
+- useState
+- useReducer
+
+I'm try to reach the same goal when I used redux and redux-saga in a project.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
