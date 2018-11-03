@@ -56,8 +56,7 @@ function App(props: AppProps){
     return (
         <ThemeContext.Provider value={layout}>
             <Layout setLayout={setLayout}>
-                    <Paper className={classes.box}>Card Example</Paper> 
-
+                <Paper className={classes.box}>Card Example</Paper>
             </Layout>                    
         </ThemeContext.Provider>
     )
